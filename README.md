@@ -1,4 +1,4 @@
-ws_csharp_p
+ws_csharp_mp
 ===========
 
 Sample C# Windows Service
