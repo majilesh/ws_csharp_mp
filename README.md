@@ -12,6 +12,9 @@ Sample C# Windows Service
 - Install the service using InstallUtil command
   - open the Developer Command Prompt
   - execute this command - installutil MP_WService.exe
+- Start and Stop service
+  - Open Services Management console by short key Windows + R, type services.msc and open
+  - Select your service and click start
 - Uninstall the service
   - Open the Developer Command Prompt
   - execute this command - installutil /u MP_WService.exe
